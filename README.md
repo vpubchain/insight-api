@@ -1,7 +1,7 @@
 <h1 align="center">Insight-api</h1>
 
 <div align="center">
-  <strong>A Dash blockchain REST and WebSocket API Service</strong>
+  <strong>A Vpub blockchain REST and WebSocket API Service</strong>
 </div>
 <br />
 <div align="center">
