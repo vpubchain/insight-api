@@ -1,6 +1,6 @@
 {
   "name": "@vpubevo/insight-api",
-  "description": "A Dash blockchain REST and web socket API service for Dashcore Node.",
+  "description": "A Vpub blockchain REST and web socket API service for Vpubcore Node.",
   "version": "0.1.1",
   "repository": "git://github.com/vpubchain/insight-api.git",
   "contributors": [
