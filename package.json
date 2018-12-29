@@ -59,7 +59,7 @@
     "test": "NODE_ENV=test mocha -R spec --recursive"
   },
   "main": "lib",
-  "dashcoreNode": "lib",
+  "vpubcoreNode": "lib",
   "dependencies": {
     "async": "*",
     "@vpubevo/vpubcore-lib": "^0.1.1",
