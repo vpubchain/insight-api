@@ -261,10 +261,10 @@
     ]
   },
   {
-    "poolName":"DASH.TOP",
-    "url":"http://dash.btc.top/",
+    "poolName":"VP.TOP",
+    "url":"http://vpub.btc.top/",
     "searchStrings":[
-      "/DASH.TOP/"
+      "/VP.TOP/"
     ]
   },
   {
@@ -290,7 +290,7 @@
   },
   {
     "poolName":"Stratum Pool",
-    "url":"https://github.com/dashpay/dash-stratum",
+    "url":"https://github.com/vpubpay/vpub-stratum",
     "searchStrings":[
       "/stratum/"
     ]

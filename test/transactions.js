@@ -179,7 +179,7 @@ describe('Transactions', function() {
       var node = {
         getDetailedTransaction: sinon.stub().callsArgWith(1, null, detailedTransaction),
         services: {
-          dashd: {
+          vpubd: {
             height: 534203
           },
         },
@@ -227,7 +227,7 @@ describe('Transactions', function() {
           return callback(err, null);
         },
         services: {
-          dashd: {
+          vpubd: {
             height: 534203
           },
         },
@@ -407,7 +407,7 @@ describe('Transactions', function() {
           callback(null, transactionDetails[txid]);
         },
         services: {
-          dashd: {
+          vpubd: {
             height: 534209
           }
         },
@@ -795,7 +795,7 @@ describe('Transactions', function() {
       var node = {
         getAddressHistory: sinon.stub().callsArgWith(2, null, historyResult),
         services: {
-          dashd: {
+          vpubd: {
             height: 534223
           }
         },
